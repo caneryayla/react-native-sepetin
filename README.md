@@ -2,8 +2,8 @@
 
 ### 🚀 run the project
 
-yarn install
-yarn start or npx expo start
+    yarn install
+    yarn start or npx expo start
 
 ![](https://i.hizliresim.com/im0ry6j.png)
 ![](https://i.hizliresim.com/nmdqitz.png)
